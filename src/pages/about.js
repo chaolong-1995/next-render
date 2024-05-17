@@ -1,3 +1,3 @@
 export default function About() {
-  return <div>About</div>;
+  return <div>I have deployed the next.js project into the render.com</div>;
 }
